@@ -1,27 +1,23 @@
 <div align="center">
 
-# Hi, I'm Yi Yuanzhi
-
-### AI Agent Developer building reliable systems around RAG, MCP, and long-running agent workflows
+# 你好，我是易远志
 
 ### AI Agent 开发者，专注 RAG、MCP 与长周期智能体工作流的可靠工程化落地
 
-<p>
-  Turning AI capabilities into usable products, developer infrastructure, and production workflows.
-</p>
+### 致力于把 AI 能力落成可用产品、开发者基础设施与生产级工作流
 
 <p>
-  <a href="./README_ZH.md">简体中文</a>
+  <a href="./README.md">English</a>
 </p>
 
 <p>
   <a href="https://github.com/codefromkarl">GitHub</a>
   ·
-  <a href="https://codefromkarl.xyz/">Blog</a>
+  <a href="https://codefromkarl.xyz/">博客</a>
   ·
-  <a href="mailto:1069123094@qq.com">Email</a>
+  <a href="mailto:1069123094@qq.com">邮箱</a>
   ·
-  <span>Shanghai, China</span>
+  <span>上海，中国</span>
 </p>
 
 <p>
@@ -34,43 +30,43 @@
 
 </div>
 
-## What I Work On
+## 我在做什么
 
-- Context and retrieval systems for agentic coding
-- Execution orchestration and observability for long-running AI workflows
-- Evaluation platforms for comparing and optimizing agent performance
-- Developer infrastructure that makes AI automation more reliable
+- 面向 AI 编程与 Agent 场景的上下文和检索系统
+- 面向长周期 AI 工作流的执行编排与可观测性系统
+- 用于对比、评估和优化智能体表现的实验与评测平台
+- 提升 AI 自动化可靠性的开发者基础设施与工程工具
 
-## Current Direction
+## 当前方向
 
-- Shipping infrastructure for long-running coding agents
-- Exploring control planes, memory systems, and workflow reliability
-- Building reusable foundations for AI-native engineering tools
+- 持续构建长周期 Coding Agent 基础设施
+- 探索控制面、记忆系统与工作流可靠性
+- 打造可复用的 AI Native 工程基础组件
 
-## Selected Projects
+## 代表项目
 
-| Project | What it does |
+| 项目 | 简介 |
 | --- | --- |
-| [ContextAtlas](https://github.com/codefromkarl/ContextAtlas) | Context infrastructure for AI coding agents with hybrid retrieval, project memory, and retrieval observability. |
-| [meta-harness](https://github.com/codefromkarl/meta-harness) | Experimental platform for observing, evaluating, optimizing, and comparing agent or harness workflows. |
-| [ai-orchestration](https://github.com/codefromkarl/ai-orchestration) | Execution orchestrator for making AI automation progressively more observable and less human-dependent. |
-| [auto_freelancer](https://github.com/codefromkarl/auto_freelancer) | Automated bidding bot for freelancer workflows. |
+| [ContextAtlas](https://github.com/codefromkarl/ContextAtlas) | 为 AI Coding Agents 提供混合检索、项目记忆与检索可观测性的上下文基础设施。 |
+| [meta-harness](https://github.com/codefromkarl/meta-harness) | 用于观测、评估、优化和对比 Agent / Harness 工作流的实验平台。 |
+| [ai-orchestration](https://github.com/codefromkarl/ai-orchestration) | 让 AI 自动化执行过程逐步变得更可观测、更少依赖人工介入的执行编排系统。 |
+| [auto_freelancer](https://github.com/codefromkarl/auto_freelancer) | 面向 freelancer 工作流的自动化投标机器人。 |
 
-## Selected Writing
+## 精选文章
 
-- [Context Engineering in Practice: ContextAtlas as Harness Engineering Infrastructure for AI Coding Agents](https://codefromkarl.xyz/post/contextatlas-harness-engineering) - Notes on harness engineering, context engineering, and the design ideas behind ContextAtlas.
-- [The Upgrade Path of VibeCoding](https://codefromkarl.xyz/post/vibecoding%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF) - A practical reflection on learning VibeCoding, improving context quality, and evolving toward more systematic AI development workflows.
+- [上下文工程实践：ContextAtlas — 为 AI 编程智能体构建 Harness Engineering 基础设施](https://codefromkarl.xyz/post/contextatlas-harness-engineering) - 结合个人实践，介绍 Harness Engineering、上下文工程以及 ContextAtlas 的设计思路。
+- [VibeCoding升级之路](https://codefromkarl.xyz/post/vibecoding%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF) - 复盘从入门到进阶的 VibeCoding 实战经验，重点讨论上下文优化、提示词策略与 AI 工程工作流演进。
 
-## Focus Areas
+## 关注领域
 
 ```text
-Context Infrastructure   -> retrieval, memory, project context, observability
-Agent Orchestration      -> execution control, workflow coordination, reliability
-Evaluation Systems       -> comparison loops, optimization, experiment platforms
-Developer Tooling        -> CLI workflows, automation systems, AI-native tooling
+上下文基础设施     -> 检索、记忆、项目上下文、可观测性
+Agent 编排        -> 执行控制、工作流协同、稳定性
+评测系统          -> 对比回路、优化流程、实验平台
+开发者工具链      -> CLI 工作流、自动化系统、AI Native 工具
 ```
 
-## Tech I Reach For
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -103,15 +99,15 @@ Developer Tooling        -> CLI workflows, automation systems, AI-native tooling
   <img src="https://img.shields.io/badge/Automation%20Systems-B45309?style=flat-square" alt="Automation Systems" />
 </p>
 
-- Languages: Python, TypeScript, Java, SQL, with working familiarity in Go and Rust
-- Frontend: React, Vue, Tailwind CSS
-- Infra and Data: PostgreSQL, pgvector, MySQL, Redis, RabbitMQ, Docker, Nginx
-- Observability and Ops: Prometheus, Grafana, Linux server and network basics
-- AI Engineering: RAG, MCP, tool calling, multi-agent workflows, prompt engineering, context engineering
+- 语言：Python、TypeScript、Java、SQL，具备 Go 与 Rust 的工程使用经验
+- 前端：React、Vue、Tailwind CSS
+- 基础设施与数据：PostgreSQL、pgvector、MySQL、Redis、RabbitMQ、Docker、Nginx
+- 可观测性与运维：Prometheus、Grafana、Linux 服务器与网络基础
+- AI 工程：RAG、MCP、工具调用、多 Agent 工作流、Prompt Engineering、Context Engineering
 
-## Connect
+## 联系方式
 
 - GitHub: [@codefromkarl](https://github.com/codefromkarl)
-- Blog: [codefromkarl.xyz](https://codefromkarl.xyz/)
-- Email: [1069123094@qq.com](mailto:1069123094@qq.com)
-- Location: Shanghai, China
+- 博客: [codefromkarl.xyz](https://codefromkarl.xyz/)
+- 邮箱: [1069123094@qq.com](mailto:1069123094@qq.com)
+- 所在地: 上海，中国
