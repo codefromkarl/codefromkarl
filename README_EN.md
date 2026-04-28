@@ -1,7 +1,5 @@
 <div align="center">
 
-# Yi Yuanzhi
-
 ### AI-native developer exploring the boundaries of AI.
 
 When AI changes the cost of building, learning, and creating, where should human attention go?
