@@ -43,6 +43,10 @@ Continuously exploring the boundaries of AI:
 
 ## Selected Projects
 
+### [TravelMap](https://github.com/codefromkarl/TravelMap)
+
+An AI-powered intelligent travel planning assistant. Built from first commit to production in approximately 24 hours, spanning architecture, UI polish, feature completeness, quality gates, and launch sprint. Core exploration: how to turn ideas into reliable products quickly through engineering practices (contract-first testing, token optimization, quality gates) in the AI age.
+
 ### [ContextAtlas](https://github.com/codefromkarl/ContextAtlas)
 
 An experiment in making AI collaboration more context-aware. It focuses on retrieval, project memory, code understanding, and observability so AI tools can work with a clearer picture of the project instead of guessing from a thin prompt.
@@ -62,6 +66,7 @@ A Rust-based trend monitoring and RSS aggregation engine that turns scattered ho
 
 ## Selected Writing
 
+- [How to Build and Launch a Travel Agent in 24 Hours](https://codefromkarl.xyz/post/how-to-build-and-launch-travel-agent-in-24-hours) - A timeline-based retrospective of 57 git commits, covering contract-first testing, token optimization, quality gates, and other engineering practices from architecture to launch.
 - [Context Engineering in Practice: ContextAtlas as Harness Engineering Infrastructure for AI Coding Agents](https://codefromkarl.xyz/post/contextatlas-harness-engineering) - Notes on context engineering and the design ideas behind ContextAtlas.
 - [The Upgrade Path of VibeCoding](https://codefromkarl.xyz/post/vibecoding%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF) - A reflection on using AI more systematically instead of treating it as a shortcut.
 
