@@ -45,7 +45,7 @@
 
 ### [TravelMap](https://github.com/codefromkarl/TravelMap)
 
-一个 AI 驱动的智能旅行规划助手。从第一个代码提交到正式上线约 24 小时，经历了架构设计、UI 打磨、功能完备、质量关卡和上线冲刺的完整过程。核心探索：在 AI 时代如何用工程实践（测试契约先行、Token 优化、质量门禁）把创意快速转化为可靠产品。
+一个 AI 驱动的智能旅行规划助手，帮助用户智能规划旅行行程、生成个性化路线与推荐。核心探索：在 AI 时代如何用工程实践（测试契约先行、Token 优化、质量门禁）把创意快速转化为可靠产品。
 
 ### [ContextAtlas](https://github.com/codefromkarl/ContextAtlas)
 
